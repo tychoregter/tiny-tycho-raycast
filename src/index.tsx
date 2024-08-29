@@ -4,7 +4,7 @@ import { ActionPanel, Action, Grid } from "@raycast/api";
 const items = [
   {
     content: "https://files.orangebyte.io/resources/stickers/01_Smile.png",
-    keywords: ["proud", "smile", "cute", "kind", "happy", "friendly"],
+    keywords: ["proud", "smile", "cute", "kind", "happy", "friendly", "friendly"],
   },
   {
     content: "https://files.orangebyte.io/resources/stickers/02_Wink.png",
