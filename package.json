@@ -6,7 +6,8 @@
   "icon": "tiny-tycho.png",
   "author": "orangebyte",
   "categories": [
-    "Fun"
+    "Fun",
+    "Communication"
   ],
   "license": "MIT",
   "commands": [
