@@ -1,3 +1,5 @@
 # Tiny Tycho Changelog
 
-## [Initial Version] - 2024-05-28
+## [1.0] - 2023-01-17
+
+Initial release
